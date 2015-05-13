@@ -1,6 +1,0 @@
-D:\SoftUni 2015\SoftUniProjects\HomeworkArraysListsStacksQueues\Problem 4 -SequencesOfEqualStrings\bin\Debug\Problem 4 -SequencesOfEqualStrings.exe.config
-D:\SoftUni 2015\SoftUniProjects\HomeworkArraysListsStacksQueues\Problem 4 -SequencesOfEqualStrings\bin\Debug\Problem 4 -SequencesOfEqualStrings.exe
-D:\SoftUni 2015\SoftUniProjects\HomeworkArraysListsStacksQueues\Problem 4 -SequencesOfEqualStrings\bin\Debug\Problem 4 -SequencesOfEqualStrings.pdb
-D:\SoftUni 2015\SoftUniProjects\HomeworkArraysListsStacksQueues\Problem 4 -SequencesOfEqualStrings\obj\Debug\Problem 4 -SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
-D:\SoftUni 2015\SoftUniProjects\HomeworkArraysListsStacksQueues\Problem 4 -SequencesOfEqualStrings\obj\Debug\Problem 4 -SequencesOfEqualStrings.exe
-D:\SoftUni 2015\SoftUniProjects\HomeworkArraysListsStacksQueues\Problem 4 -SequencesOfEqualStrings\obj\Debug\Problem 4 -SequencesOfEqualStrings.pdb
