@@ -1,6 +1,0 @@
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\NumberCalculations\bin\Debug\NumberCalculations.exe.config
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\NumberCalculations\bin\Debug\NumberCalculations.exe
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\NumberCalculations\bin\Debug\NumberCalculations.pdb
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\NumberCalculations\obj\Debug\NumberCalculations.csprojResolveAssemblyReference.cache
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\NumberCalculations\obj\Debug\NumberCalculations.exe
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\NumberCalculations\obj\Debug\NumberCalculations.pdb

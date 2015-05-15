@@ -1,5 +1,0 @@
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\ReversedNumber\bin\Debug\ReversedNumber.exe.config
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\ReversedNumber\bin\Debug\ReversedNumber.exe
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\ReversedNumber\bin\Debug\ReversedNumber.pdb
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\ReversedNumber\obj\Debug\ReversedNumber.exe
-D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\ReversedNumber\obj\Debug\ReversedNumber.pdb

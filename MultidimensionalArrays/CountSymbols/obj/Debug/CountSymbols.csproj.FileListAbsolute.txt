@@ -1,6 +1,0 @@
-D:\SoftUni 2015\SoftUniProjects\MultidimensionalArrays\CountSymbols\bin\Debug\CountSymbols.exe.config
-D:\SoftUni 2015\SoftUniProjects\MultidimensionalArrays\CountSymbols\bin\Debug\CountSymbols.exe
-D:\SoftUni 2015\SoftUniProjects\MultidimensionalArrays\CountSymbols\bin\Debug\CountSymbols.pdb
-D:\SoftUni 2015\SoftUniProjects\MultidimensionalArrays\CountSymbols\obj\Debug\CountSymbols.csprojResolveAssemblyReference.cache
-D:\SoftUni 2015\SoftUniProjects\MultidimensionalArrays\CountSymbols\obj\Debug\CountSymbols.exe
-D:\SoftUni 2015\SoftUniProjects\MultidimensionalArrays\CountSymbols\obj\Debug\CountSymbols.pdb
