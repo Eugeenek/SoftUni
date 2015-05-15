@@ -1,0 +1,5 @@
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\GetTheLastDigit\bin\Debug\GetTheLastDigit.exe.config
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\GetTheLastDigit\bin\Debug\GetTheLastDigit.exe
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\GetTheLastDigit\bin\Debug\GetTheLastDigit.pdb
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\GetTheLastDigit\obj\Debug\GetTheLastDigit.exe
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\GetTheLastDigit\obj\Debug\GetTheLastDigit.pdb

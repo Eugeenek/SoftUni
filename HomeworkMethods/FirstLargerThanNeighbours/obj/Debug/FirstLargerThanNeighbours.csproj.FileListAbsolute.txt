@@ -1,0 +1,5 @@
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe.config
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.pdb
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.exe
+D:\SoftUni 2015\SoftUniProjects\HomeworkMethods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.pdb
