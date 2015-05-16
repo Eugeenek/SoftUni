@@ -1,0 +1,6 @@
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 1 Reverse String\bin\Debug\Problem 1 Reverse String.exe.config
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 1 Reverse String\bin\Debug\Problem 1 Reverse String.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 1 Reverse String\bin\Debug\Problem 1 Reverse String.pdb
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 1 Reverse String\obj\Debug\Problem 1 Reverse String.csprojResolveAssemblyReference.cache
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 1 Reverse String\obj\Debug\Problem 1 Reverse String.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 1 Reverse String\obj\Debug\Problem 1 Reverse String.pdb

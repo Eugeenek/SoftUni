@@ -1,0 +1,3 @@
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\CountSubstringOccurrances\bin\Debug\CountSubstringOccurrances.exe.config
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\CountSubstringOccurrances\obj\Debug\CountSubstringOccurrances.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\CountSubstringOccurrances\obj\Debug\CountSubstringOccurrances.pdb

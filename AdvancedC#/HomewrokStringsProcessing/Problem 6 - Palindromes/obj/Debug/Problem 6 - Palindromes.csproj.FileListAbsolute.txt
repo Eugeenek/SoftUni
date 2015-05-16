@@ -1,0 +1,6 @@
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 6 - Palindromes\bin\Debug\Problem 6 - Palindromes.exe.config
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 6 - Palindromes\bin\Debug\Problem 6 - Palindromes.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 6 - Palindromes\bin\Debug\Problem 6 - Palindromes.pdb
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 6 - Palindromes\obj\Debug\Problem 6 - Palindromes.csprojResolveAssemblyReference.cache
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 6 - Palindromes\obj\Debug\Problem 6 - Palindromes.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomewrokStringsProcessing\Problem 6 - Palindromes\obj\Debug\Problem 6 - Palindromes.pdb
