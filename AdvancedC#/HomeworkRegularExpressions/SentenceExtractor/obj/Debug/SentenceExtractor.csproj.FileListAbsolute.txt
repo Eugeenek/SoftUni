@@ -1,0 +1,6 @@
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\SentenceExtractor\bin\Debug\SentenceExtractor.exe.config
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\SentenceExtractor\bin\Debug\SentenceExtractor.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\SentenceExtractor\bin\Debug\SentenceExtractor.pdb
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\SentenceExtractor\obj\Debug\SentenceExtractor.csprojResolveAssemblyReference.cache
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\SentenceExtractor\obj\Debug\SentenceExtractor.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\SentenceExtractor\obj\Debug\SentenceExtractor.pdb

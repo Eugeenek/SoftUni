@@ -1,0 +1,6 @@
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\Problem 5. Valid Usernames\bin\Debug\Problem_5.Valid_Usernames.exe.config
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\Problem 5. Valid Usernames\bin\Debug\Problem_5.Valid_Usernames.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\Problem 5. Valid Usernames\bin\Debug\Problem_5.Valid_Usernames.pdb
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\Problem 5. Valid Usernames\obj\Debug\Problem 5. Valid Usernames.csprojResolveAssemblyReference.cache
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\Problem 5. Valid Usernames\obj\Debug\Problem_5.Valid_Usernames.exe
+D:\SoftUni 2015\SoftUniProjects\SoftUni\AdvancedC#\HomeworkRegularExpressions\Problem 5. Valid Usernames\obj\Debug\Problem_5.Valid_Usernames.pdb
